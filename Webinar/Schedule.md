@@ -14,11 +14,21 @@
 # スケジュール
 スケジュールおよび登録リンクは以下の通り。<br>
 
+## Season 1 (2018年 5月 - 7月実施)
 
-| # |           日時          |                                                                     テーマ                                                                     |                                                                登録リンク                                                               |
-|:-:|:-----------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------:|
-| 1 | 5/24(木)<br>13:30-14:00 | 適切な Azure AD 認証方式の選択の決め手<br>Selecting appropriate authentication method for Azure AD                                             | [録画](https://resources.office.com/en-landing-ondemand-CO-M365-CSD-WBNR-FY18-05May-10-Azure-AD-Option-1-MCW0006598.html)          |
-| 2 | 6/7(木) <br>13:30-14:15 | Azure AD の SaaS アプリケーション認証への活用<br>Utilize Azure AD for 3rp Party app authentication                                             | [録画](https://resources.office.com/ja-jp-landing-ondemand-CO-M365-CSD-WBNR-FY18-06June-7-JPN--SaaS-June-Option-1-MCW0007154.html) |
-| 3 | 6/21(木)<br>13:30-14:15 | Office365 および Azure AD 管理者が必ずやっておくべきセキュリティ対策<br>Key things O365 administrators must do for securing corporate identity | [録画](https://resources.office.com/ja-jp-landing-CO-M365-CSD-WBNR-FY18-06June-21-Office-365-and-Azure-AD-MCW0007571.html)                                                                                                                  |
-| 4 | 7/6(金)<br>13:30-14:15  | Azure AD で実現するスムーズな外部パートナー協業<br>Accelerate partner collaboration through Azure AD                                           | [参加登録](https://resources.office.com/ja-jp-landing-CO-M365-CSD-WBNR-FY19-07Jul-6-Smooth-external-partner-collaboration-achieved-with-Azure-AD-MCW0007623.html)                                                                                                                  |
-| 5 | 7/19(木)<br>13:30-14:15 | Azure AD セルフサービス機能を用いてコスト削減<br>How to use full Azure AD self-service capabilities                                            | [参加登録](https://resources.office.com/ja-jp-landing-CO-M365-CSD-WBNR-FY19-07Jul-19-How-to-use-all-Azure-AD-self-service-functions-MCW0007624.html)     
+| # |           日時          |                                                                     テーマ                                                                     |                                                                登録リンク                                                               |資料|
+|:-:|:-----------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------:|:-:|
+| 1 | 5/24(木)<br>13:30-14:00 | 適切な Azure AD 認証方式の選択の決め手<br>Selecting appropriate authentication method for Azure AD                                             | [録画](https://resources.office.com/en-landing-ondemand-CO-M365-CSD-WBNR-FY18-05May-10-Azure-AD-Option-1-MCW0006598.html)          | [download](https://azureadwebinar.blob.core.windows.net/contents/1.Azure%20AD%20-%20Choose%20AuthN_JP.pptx)|
+| 2 | 6/7(木) <br>13:30-14:15 | Azure AD の SaaS アプリケーション認証への活用<br>Utilize Azure AD for 3rp Party app authentication                                             | [録画](https://resources.office.com/ja-jp-landing-ondemand-CO-M365-CSD-WBNR-FY18-06June-7-JPN--SaaS-June-Option-1-MCW0007154.html) | [download](https://azureadwebinar.blob.core.windows.net/contents/2.Azure%20AD%20-%20SaaS%20App%20Integration.pptx)|
+| 3 | 6/21(木)<br>13:30-14:15 | Office365 および Azure AD 管理者が必ずやっておくべきセキュリティ対策<br>Key things O365 administrators must do for securing corporate identity | [録画](https://resources.office.com/ja-jp-landing-CO-M365-CSD-WBNR-FY18-06June-21-Office-365-and-Azure-AD-MCW0007571.html)                                                                                                                  |[download](https://azureadwebinar.blob.core.windows.net/contents/3.Azure%20AD%20-%20Secure%20Your%20Tenant.pptx)|
+| 4 | 7/6(金)<br>13:30-14:15  | Azure AD で実現するスムーズな外部パートナー協業<br>Accelerate partner collaboration through Azure AD                                           | [録画](https://resources.office.com/ja-jp-landing-CO-M365-CSD-WBNR-FY19-07Jul-6-Smooth-external-partner-collaboration-achieved-with-Azure-AD-MCW0007623.html)                                                                                                                  |[download](https://azureadwebinar.blob.core.windows.net/contents/4.Azure%20AD%20-%20Partner%20Collaboration.pptx)|
+| 5 | 7/19(木)<br>13:30-14:15 | Azure AD セルフサービス機能を用いてコスト削減<br>How to use full Azure AD self-service capabilities                                            | [録画](https://resources.office.com/ja-jp-landing-CO-M365-CSD-WBNR-FY19-07Jul-19-How-to-use-all-Azure-AD-self-service-functions-MCW0007624.html)     |[download](https://azureadwebinar.blob.core.windows.net/contents/5.Azure%20AD%20-%20Self%20Service%20Capabilities.pptx)|
+
+
+<br>
+
+## Season 2 (2018年 8月 - 10月実施)
+<br>
+
+>Coming Soon！
+>お楽しみに！
