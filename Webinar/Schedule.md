@@ -28,4 +28,4 @@
 
 <br><br>
 
-### ※ 過去の Webinar のオンデマンド配信は[こちら](Webinar/Schedule-old.md)から
+### ※ 過去の Webinar のオンデマンド配信は[こちら](Schedule-old.md)から
