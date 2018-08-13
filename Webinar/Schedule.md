@@ -26,5 +26,6 @@
 | 4 | 10/11(金)<br>13:30-14:15  | Azure AD の SaaS アプリケーション認証への活用<br>Utilize Azure AD for 3rp Party app authentication| coming soon |-|
 | 5 | 10/25(木)<br>13:30-14:15 | Azure AD で実現するスムーズな外部パートナー協業<br>Accelerate partner collaboration through Azure AD                                           |coming soon |-|
 
-<br>
-過去の Webinar のオンデマンド配信は[こちら](Schedule-old.md)から！
+<br><br>
+
+### ※ 過去の Webinar のオンデマンド配信は[こちら](Webinar/Schedule-old.md)から
