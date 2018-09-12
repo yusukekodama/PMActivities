@@ -22,10 +22,8 @@
 -	Event 動画
     - [AD FS では守れない？！アカウント乗っ取りを防ぐためにすべき 3 つのこと ～ユーザー企業の実例のご紹介～](https://youtu.be/g2mB_EKqi-g)
 -	海外イベント
+    
 -	国内イベント
--	トレーニング
--	海外系トレーニング
--	国内トレーニング
 -	Web/オンデマンド
     - [Azure AD 製品開発チーム主催 Webinar (日本語)](http://aka.ms/azureadwebinar)
     - [Azure AD 製品開発チーム主催 Webinar (英語)](https://info.microsoft.com/AADP-Webinar-CLE_AADP-Main-Landing-Page.html?ls=Email)
