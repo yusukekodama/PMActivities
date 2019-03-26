@@ -9,12 +9,8 @@
 
 ## Azure AD 全般情報収集
 -	Blog (Microsoft 社員によるブログ) - 最新情報をキャッチするにはこちら
-    - [EMS Blog](https://cloudblogs.microsoft.com/enterprisemobility/) - Azure AD 開発部門 による告知や Preview 情報が一番最初に公開されるのがここ
-    - [Japan Azure Identity Support Blog ](https://blogs.technet.microsoft.com/jpazureid/) - 日本のサポートエンジニアによる、よくあるお問い合わせをベースとしたナレッジベースとして大好評のブログ
-
--	Blog (外部 IT アーキテクトの皆様によるブログ)
--	Social アカウント
-    - Twitter: @azureadjp
+    - [EMS Blog](https://cloudblogs.microsoft.com/enterprisemobility/) <br> Azure AD 開発部門 による告知や Preview 情報が一番最初に公開されるのがここ
+    - [Japan Azure Identity Support Blog ](https://blogs.technet.microsoft.com/jpazureid/) <br> 日本のサポートエンジニアによる、よくあるお問い合わせをベースとしたナレッジベースとして大好評のブログ
 
 -	Deployment Guide - Azure AD の主要な機能の導入手順書
     - [Azure Active Directory deployment plans](http://aka.ms/deploymentplans)
@@ -32,23 +28,18 @@
         - [VPN・証明書はもう不要? Azure ADによるデバイス認証](https://youtu.be/pfExM8YB7c0)
 
 -	Web/オンデマンド
-    - [Azure AD 製品開発チーム主催 Webinar (日本語)](http://aka.ms/azureadwebinar) - これまで 3 シリーズ全 16 セッションを実施、レコーディングや資料のダウンロードもこちらから可能です！
+    - [Azure AD 製品開発チーム主催 Webinar (日本語)](http://aka.ms/azureadwebinar) <br> これまで 3 シリーズ全 16 セッションを実施、レコーディングや資料のダウンロードもこちらから可能です！
     - [Azure AD 製品開発チーム主催 Webinar (英語)](https://info.microsoft.com/AADP-Webinar-CLE_AADP-Main-Landing-Page.html?ls=Email)
     <br>
     日本語版と英語版ではセッションテーマや利用される資料、スピーカーが異なります。両方チェックしてください。
 -	ラボガイド
 
-・Azure AD を理解するために持っておくと望ましい IT 知識
--	Identity 全般 (4 Pillars)
--	プロトコル
-
-
 
 ## 技術カテゴリ別リソース
 - デバイス管理系
-    - [デバイス登録フロー詳細]()
-    - [Azure AD Join デバイスでオンプレリソースに SSO する方法]()
-    - [Azure Active Directory by Jairo Cadena](https://jairocadena.com/) - 元 Device PM Jairo のブログ。未だに一番細かいことが記載されているトピックも存在
+    - [デバイス登録フロー詳細](https://docs.microsoft.com/en-us/windows/security/identity-protection/hello-for-business/hello-how-it-works-device-registration) <br> Azure AD Join, Hybrid Azure AD Join 時のデバイスの Azure AD への登録フロー図
+    - [Azure AD Join デバイスでオンプレリソースへの SSO が機能するしくみ](https://docs.microsoft.com/ja-jp/azure/active-directory/devices/azuread-join-sso) <br> Azure AD Join するとオンプレリソースへの SSO ができなくなる、というよくある誤解に対する回答がこちら
+    - [Azure Active Directory by Jairo Cadena](https://jairocadena.com/) <br> 元 Device PM Jairo のブログ。未だに一番細かいことが記載されているトピックも存在
 
 - 脱 ADFS
     - [ADFS からの Azure AD へのアプリケーション移行](aka.ms/migrateapps) - 現在 ADFS に連携されているアプリケーションを Azure AD 連携へ移行するために利用できるガイドやツール群
