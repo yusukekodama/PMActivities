@@ -3,29 +3,36 @@
 
 最近 Azure Active Directory について Doc や参考にできるリソースが増えてきて、私たち Azure Active Directory 開発チームメンバーとしてもお客様の疑問に対して提示する参考資料を悩んでしまうくらいになりました。このAzure AD Knowledge Base に Azure AD 関連の情報ソースを集約し公開することで少しでも皆様が Azure Active Directory を簡単に導入するためのお手伝いができればと考えています。
 
-載せるべき情報で未掲載のものがあれば是非加筆しプルリクエストをいただき、みんなでより良い情報データベースを作ることができればなと思います！
+載せるべき情報で未掲載のものがあれば是非こちらの[**アンケートフォーム**](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR0c2zLzd505PpWCpBKbso6xUQ09LWjBPN09SMUs1SEdTOUpFM0EwMU1UQi4u)からリクエストをお願いします。みんなでより良い情報データベースを作ることができればなと思います！
 
 
--	Blog (Microsoft 社員によるブログ)
-    - [EMS Blog](https://cloudblogs.microsoft.com/enterprisemobility/)
-    - [Japan Azure Identity Support Blog ](https://blogs.technet.microsoft.com/jpazureid/)
-    - [Azure Active Directory by Jairo Cadena](https://jairocadena.com/)
+
+## Azure AD 全般情報収集
+-	Blog (Microsoft 社員によるブログ) - 最新情報をキャッチするにはこちら
+    - [EMS Blog](https://cloudblogs.microsoft.com/enterprisemobility/) - Azure AD 開発部門 による告知や Preview 情報が一番最初に公開されるのがここ
+    - [Japan Azure Identity Support Blog ](https://blogs.technet.microsoft.com/jpazureid/) - 日本のサポートエンジニアによる、よくあるお問い合わせをベースとしたナレッジベースとして大好評のブログ
 
 -	Blog (外部 IT アーキテクトの皆様によるブログ)
 -	Social アカウント
     - Twitter: @azureadjp
--	ホワイトペーパー
-    - [Five steps to securing your identity infrastructure](https://aka.ms/securitysteps)
-    - [Identity and device access configurations](http://aka.ms/m365goldenconfig)
--	Deployment Guide
+
+-	Deployment Guide - Azure AD の主要な機能の導入手順書
     - [Azure Active Directory deployment plans](http://aka.ms/deploymentplans)
--	Event 動画
-    - [AD FS では守れない？！アカウント乗っ取りを防ぐためにすべき 3 つのこと ～ユーザー企業の実例のご紹介～](https://youtu.be/g2mB_EKqi-g)
+
 -	海外イベント
+    - Ignite 2018
     
 -	国内イベント
+    - Tech Summit 2017
+        - [ネットワークエンジニア必見! VPN/DMZ は要らなくなる!? Application Proxy で実現するセキュアなアクセス](https://info.microsoft.com/JA-SCRTY-CNTNT-FY18-11Nov-18-Networkengineer-MGC0001441_01Registration-ForminBody.html)
+    - De:code 2018
+        - [AD FS では守れない？！アカウント乗っ取りを防ぐためにすべき 3 つのこと ～ユーザー企業の実例のご紹介～](https://youtu.be/g2mB_EKqi-g)
+    - Tech Summit 2018
+        - [開発部門が手掛けた Azure AD B2B 大規模展開 in Japan ～表面化した課題とそれらを解決する新機能・ロードマップ～](https://youtu.be/pHs0eQaicM4)
+        - [VPN・証明書はもう不要? Azure ADによるデバイス認証](https://youtu.be/pfExM8YB7c0)
+
 -	Web/オンデマンド
-    - [Azure AD 製品開発チーム主催 Webinar (日本語)](http://aka.ms/azureadwebinar)
+    - [Azure AD 製品開発チーム主催 Webinar (日本語)](http://aka.ms/azureadwebinar) - これまで 3 シリーズ全 16 セッションを実施、レコーディングや資料のダウンロードもこちらから可能です！
     - [Azure AD 製品開発チーム主催 Webinar (英語)](https://info.microsoft.com/AADP-Webinar-CLE_AADP-Main-Landing-Page.html?ls=Email)
     <br>
     日本語版と英語版ではセッションテーマや利用される資料、スピーカーが異なります。両方チェックしてください。
@@ -34,3 +41,19 @@
 ・Azure AD を理解するために持っておくと望ましい IT 知識
 -	Identity 全般 (4 Pillars)
 -	プロトコル
+
+
+
+## 技術カテゴリ別リソース
+- デバイス管理系
+    - [デバイス登録フロー詳細]()
+    - [Azure AD Join デバイスでオンプレリソースに SSO する方法]()
+    - [Azure Active Directory by Jairo Cadena](https://jairocadena.com/) - 元 Device PM Jairo のブログ。未だに一番細かいことが記載されているトピックも存在
+
+- 脱 ADFS
+    - [ADFS からの Azure AD へのアプリケーション移行](aka.ms/migrateapps) - 現在 ADFS に連携されているアプリケーションを Azure AD 連携へ移行するために利用できるガイドやツール群
+
+- セキュリティ強化
+    - [Five steps to securing your identity infrastructure](https://aka.ms/securitysteps)
+    - [Identity and device access configurations](http://aka.ms/m365goldenconfig)
+    - [Break Glass Account](aka.ms/breakglass)
