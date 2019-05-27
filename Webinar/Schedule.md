@@ -1,6 +1,6 @@
 # 連絡事項
-**5/16 開催予定としていた Hybrid Azure AD Join の会にご登録いただいていました皆様、当方の会議設定ミスにより開催ができなかったことをお詫び申し上げます。申し訳ありません。再度の設定が済み次第こちらで案内いたしますので、もう一度ご登録をいただけますと幸いです。**
-<br>
+**Hybrid Azure AD Join の会を再度セットアップしました！6/6(木) 10:00-11:00 実施となります。是非ご登録ください。**
+
 
 
 # Azure AD webinar にご参加ください <br>(セッション情報随時追加、Bookmark 推奨!)
@@ -36,7 +36,7 @@
 | 3 | 4/4(木)<br>13:30-14:30 | 詳説！Azure AD 条件付きアクセス - 設計のやり方編<br>Azure AD Conditional Access deep dive - Design methodology |[recording](https://info.microsoft.com/JA-NOGEP-WBNR-FY19-04Apr-04-AzureADConditionalAccess-HowtoDesign-1572_01Registration-ForminBody.html) |[PPT](https://azureadwebinar.blob.core.windows.net/contents/Azure%20AD%20-%20Conditional%20Access2%20-%20Design%20Methodology.pptx) <br> [Design Sheet](https://azureadwebinar.blob.core.windows.net/contents/CA_design_sheet_JA.xlsx)|
 | 4 | 4/18(木)<br>13:30-14:30  | Azure AD の新しいデバイス管理パターンを理解しよう<br>Modern device management with Azure AD| [register](https://info.microsoft.com/JA-NOGEP-WBNR-FY19-04Apr-18-UnderstandnewdevicemanagementpatternsinAzureAD-1571_01Registration-ForminBody.html) |[download](https://azureadwebinar.blob.core.windows.net/contents/Azure%20AD%20-%20Modern%20Device%20Management.pptx)|
 | 5 | 5/9(木)<br>13:30-14:30 | Intuneによるモバイルデバイスとアプリのセキュアな管理とは<br>Manage and secure mobile devices and apps with Intune |[register](https://info.microsoft.com/JA-NOGEP-WBNR-FY19-05May-09-Aboutsecuremanagementofmobiledevices-1693_LP01Registration.html) |[download](https://azureadwebinar.blob.core.windows.net/contents/AzureADWebiner-Intune_20190509.pptx)|
-| 6 | 調整中 | Hybrid Azure AD Join 動作の仕組みを徹底解説<br>Hybrid Azure AD Join deep dive |登録準備中 |資料準備中|
+| 6 | 調整中 | Hybrid Azure AD Join 動作の仕組みを徹底解説<br>Hybrid Azure AD Join deep dive |[register](https://info.microsoft.com/HybridAzureADJoin_LP01Registration.html) |資料準備中|
 
 <br><br>
 
