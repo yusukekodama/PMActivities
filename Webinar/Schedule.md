@@ -1,5 +1,5 @@
 # 連絡事項
-**Webinar Season 3 無事終了いたしました。 Season 4 は形式、時期含め検討中です！**
+**Webinar Season 3 無事終了いたしました。 Season 4 は形式、時期含め検討中です!！**
 
 
 
