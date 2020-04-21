@@ -39,5 +39,5 @@
 | 6 | 6/6(木)<br>10:00-11:00 | Hybrid Azure AD Join 動作の仕組みを徹底解説<br>Hybrid Azure AD Join deep dive |[register](https://info.microsoft.com/HybridAzureADJoin_LP01Registration.html) |[download](https://azureadwebinar.blob.core.windows.net/contents/Azure%20AD%20-%20Hybrid%20Azure%20AD%20Join.pptx)|
 
 <br><br>
-
+### Webinar に関するフィードバックをいただける方はこちらよりお願いいたします！
 ### ※ 過去の Webinar のオンデマンド配信は[こちら](Schedule-old.md)から
