@@ -1,5 +1,5 @@
 # 連絡事項
-**Webinar Season 3 無事終了いたしました。 Season 4 は形式、時期含め検討中です!！**
+**2020 年 7 月より Webinar Season 4 を開催します！ご登録方法などの詳細が決まり次第こちらで告知しますので是非チェックをお願いします！**
 
 
 
@@ -19,24 +19,21 @@
 # スケジュール
 スケジュールおよび登録リンクは以下の通り。<br>
 
-
-
 <br><br>
 
-## Season 3 (2019年 3月 - 5月実施)
+## Season 4 (2020年 7月 - 9月実施)
 
-### **今回の Webinar はシリーズものとなっていますので、すべてに順番にご参加いただくことで最も効果が感じられるよう設計しております。(もちろん、単発のご参加でも理解可能なようになっています！)**
 <br>
 
 
 | # |           日時          |                                                                     テーマ                                                                     |                                                                登録リンク                                                               |資料|
 |:-:|:-----------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------:|:-:|
-| 1 | 3/7(木)<br>13:30-14:30 | モダンアクセスコントロール実現に向けた戦略策定方法<br>Enterprise strategy towards modern access control                                | [recording](https://info.microsoft.com/CO-SCRTY-WBNR-FY19-03Mar-07-Astrategyformulationmethod-MCW0012100_01Registration-ForminBody.html) |[download](https://azureadwebinar.blob.core.windows.net/contents/Azure%20AD%20-%20Road%20to%20Modern%20Access%20Control.pptx)|
-| 2 | 3/20(水) <br>13:30-14:30 | 詳説！Azure AD 条件付きアクセス - 動作の仕組みを理解する編<br>Azure AD Conditional Access deep dive - How it works  |[recording](https://info.microsoft.com/CO-SCRTY-WBNR-FY19-03Mar-20-DetailedexplanationAzureAD-MCW0012101_01Registration-ForminBody.html) |[download](https://azureadwebinar.blob.core.windows.net/contents/Azure%20AD%20-%20Conditional%20Access1%20-%20How%20it%20works.pptx)|
-| 3 | 4/4(木)<br>13:30-14:30 | 詳説！Azure AD 条件付きアクセス - 設計のやり方編<br>Azure AD Conditional Access deep dive - Design methodology |[recording](https://info.microsoft.com/JA-NOGEP-WBNR-FY19-04Apr-04-AzureADConditionalAccess-HowtoDesign-1572_01Registration-ForminBody.html) |[PPT](https://azureadwebinar.blob.core.windows.net/contents/Azure%20AD%20-%20Conditional%20Access2%20-%20Design%20Methodology.pptx) <br> [Design Sheet](https://azureadwebinar.blob.core.windows.net/contents/CA_design_sheet_JA.xlsx)|
-| 4 | 4/18(木)<br>13:30-14:30  | Azure AD の新しいデバイス管理パターンを理解しよう<br>Modern device management with Azure AD| [register](https://info.microsoft.com/JA-NOGEP-WBNR-FY19-04Apr-18-UnderstandnewdevicemanagementpatternsinAzureAD-1571_01Registration-ForminBody.html) |[download](https://azureadwebinar.blob.core.windows.net/contents/Azure%20AD%20-%20Modern%20Device%20Management.pptx)|
-| 5 | 5/9(木)<br>13:30-14:30 | Intuneによるモバイルデバイスとアプリのセキュアな管理とは<br>Manage and secure mobile devices and apps with Intune |[register](https://info.microsoft.com/JA-NOGEP-WBNR-FY19-05May-09-Aboutsecuremanagementofmobiledevices-1693_LP01Registration.html) |[download](https://azureadwebinar.blob.core.windows.net/contents/AzureADWebiner-Intune_20190509.pptx)|
-| 6 | 6/6(木)<br>10:00-11:00 | Hybrid Azure AD Join 動作の仕組みを徹底解説<br>Hybrid Azure AD Join deep dive |[register](https://info.microsoft.com/HybridAzureADJoin_LP01Registration.html) |[download](https://azureadwebinar.blob.core.windows.net/contents/Azure%20AD%20-%20Hybrid%20Azure%20AD%20Join.pptx)|
+| 1 | 7/9(木)<br>13:30-14:30 | Azure AD アーキテクチャ概要 - Azure AD を設計するためのガイドライン| Register| download|
+| 2 | 7/23(木) <br>13:30-14:30 | パスワードレス（第 1 回) - パスワードがインフラ最大の脆弱性となる時代 |Register|download|
+| 3 | 8/6(木)<br>13:30-14:30 | パスワードレス（第 2 回) - Azure AD が提供するトップレベルのセキュリティ機能 |Register|download|
+| 4 | 8/20(木)<br>13:30-14:30  | オンプレミス アプリケーションのモダン化 (Secure Hybrid Access)<br>Elevate Legacy Apps to the modern control plane with Secure Hybrid Access| Register |download|
+| 5 | 9/3(木)<br>13:30-14:30 | COVID-19 でリモート対応に成功した企業と失敗した企業の違いとは？ |Register|download|
+| 6 | 9/17(木)<br>13:30-14:30 | マイクロソフトサポート部門が送る 「Azure AD の監視方法」|Register|download|
 
 <br><br>
 ### Webinar に関するフィードバックをいただける方は[こちら](https://forms.microsoft.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR0c2zLzd505PpWCpBKbso6xUMEpUMjNQUEJJSTUwMjJaTlFITE9BQTU2Qy4u)よりお願いいたします！
