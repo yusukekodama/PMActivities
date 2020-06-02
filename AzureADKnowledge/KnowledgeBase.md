@@ -36,11 +36,16 @@
         - [SE82 20 分で理解する Azure Active Directory 最新アップデートと利活用シナリオ](https://www.youtube.com/watch?v=ypFr77WlJ3M&list=PLWtNmdzETm6ZAnpniNHh6NwLVGfp77ifn&index=3&t=0s)
 
 -	Web/オンデマンド
+    - [Azure AD youtube play list](https://www.youtube.com/playlist?list=PLLasX02E8BPBm1xNMRdvP6GtA6otQUqp0)  :Azure AD 各機能を説明した短編動画集 (5-10 分くらいで簡潔にまとまっているので、最初に見る動画として)
     - [Azure AD 製品開発チーム主催 Webinar (日本語)](http://aka.ms/azureadwebinar) <br> これまで 3 シリーズ全 16 セッションを実施、レコーディングや資料のダウンロードもこちらから可能です！
     - [Azure AD 製品開発チーム主催 Webinar (英語)](https://info.microsoft.com/AADP-Webinar-CLE_AADP-Main-Landing-Page.html?ls=Email)
     <br>
     日本語版と英語版ではセッションテーマや利用される資料、スピーカーが異なります。両方チェックしてください。
--	ラボガイド
+-  開発者向け
+    - [Microsoft identity platform documentation](aka.ms/aaddev) :OAuth/OpenID Connect Sample code
+    - [SCIM Reference code wiki](https://github.com/AzureAD/SCIMReferenceCode/wiki)
+    - [Azure AD for Developers (Pluralsight)](https://www.pluralsight.com/courses/azure-active-directory-developers)
+    - [Microsoft identity platform videos](https://www.pluralsight.com/courses/azure-active-directory-developers)  :開発者向け Youtube video シリーズ
 
 
 ## 技術カテゴリ別リソース
