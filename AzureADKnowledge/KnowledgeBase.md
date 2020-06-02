@@ -16,7 +16,11 @@
     - [Azure Active Directory deployment plans](http://aka.ms/deploymentplans)
 
 -	海外イベント
-    - Ignite 2018
+    - Ignite 2019
+        - [Identity: The control plane for your digital transformation, now and into the future](https://myignite.techcommunity.microsoft.com/sessions/87373?source=sessions) <br>
+        Ignite の Key Note session で SMBC 様が登壇し Cloud Provisioning の導入体験を語っています
+        - [Bridge the gap between HR, IT and business with the Azure Active Directory identity provisioning platform](https://myignite.techcommunity.microsoft.com/sessions/81726?source=sessions) <br>
+        Ignite の Provisioning break out session。上記の Key note よりも詳細に Cloud provisioning について紹介しています
     
 -	国内イベント
     - Tech Summit 2017
@@ -26,6 +30,10 @@
     - Tech Summit 2018
         - [開発部門が手掛けた Azure AD B2B 大規模展開 in Japan ～表面化した課題とそれらを解決する新機能・ロードマップ～](https://youtu.be/pHs0eQaicM4)
         - [VPN・証明書はもう不要? Azure ADによるデバイス認証](https://youtu.be/pfExM8YB7c0)
+
+    - De:code 2019
+        - [SE03 Good Bye ADFS - Azure Active Directory Only の認証方式へ切り替えよう!](https://www.youtube.com/watch?v=o_MCm_0n2Jo&list=PLWtNmdzETm6ZAnpniNHh6NwLVGfp77ifn&index=2&t=1s)
+        - [SE82 20 分で理解する Azure Active Directory 最新アップデートと利活用シナリオ](https://www.youtube.com/watch?v=ypFr77WlJ3M&list=PLWtNmdzETm6ZAnpniNHh6NwLVGfp77ifn&index=3&t=0s)
 
 -	Web/オンデマンド
     - [Azure AD 製品開発チーム主催 Webinar (日本語)](http://aka.ms/azureadwebinar) <br> これまで 3 シリーズ全 16 セッションを実施、レコーディングや資料のダウンロードもこちらから可能です！
