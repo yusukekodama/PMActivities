@@ -68,3 +68,9 @@
         - Azure AD アプリケーション連携促進ポスター ([English](aka.ms/AppOnePager), [Japanese](aka.ms/AppOnePagerja))
         - Azure AD アプリケーション連携ガイドライン ([English](Aka.ms/AppGuideline), [Japanese](Aka.ms/AppGuidelineja))
 
+- External user
+    - [Multi tenant collaboration case study paper](https://aka.ms/multi-tenant-users)
+
+
+## Code
+- [Identity GTP code repo](https://repos.opensource.microsoft.com/AzureAD/teams/identitygtp)
