@@ -65,8 +65,8 @@
 - Application integration
     - [Azure AD App gallery への登録](https://docs.microsoft.com/ja-jp/azure/active-directory/develop/howto-app-gallery-listing)
     - Application Campaign 用マテリアル
-        - Azure AD アプリケーション連携促進ポスター ([English](aka.ms/AppOnePager), [Japanese](aka.ms/AppOnePagerja))
-        - Azure AD アプリケーション連携ガイドライン ([English](Aka.ms/AppGuideline), [Japanese](Aka.ms/AppGuidelineja))
+        - Azure AD アプリケーション連携促進ポスター ([English](http://aka.ms/AppOnePager), [Japanese](http://aka.ms/AppOnePagerja))
+        - Azure AD アプリケーション連携ガイドライン ([English](http://Aka.ms/AppGuideline), [Japanese](http://Aka.ms/AppGuidelineja))
 
 - External user
     - [Multi tenant collaboration case study paper](https://aka.ms/multi-tenant-users)
