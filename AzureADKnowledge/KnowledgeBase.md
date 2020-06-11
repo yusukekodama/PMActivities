@@ -67,6 +67,7 @@
     - Application Campaign 用マテリアル
         - Azure AD アプリケーション連携促進ポスター ([English](http://aka.ms/AppOnePager), [Japanese](http://aka.ms/AppOnePagerja))
         - Azure AD アプリケーション連携ガイドライン ([English](http://Aka.ms/AppGuideline), [Japanese](http://Aka.ms/AppGuidelineja))
+    - [Azure AD SAML toolkit](https://samltoolkit.azurewebsites.net/)
 
 - External user
     - [Multi tenant collaboration case study paper](https://aka.ms/multi-tenant-users)
