@@ -68,6 +68,7 @@
         - Azure AD アプリケーション連携促進ポスター ([English](http://aka.ms/AppOnePager), [Japanese](http://aka.ms/AppOnePagerja))
         - Azure AD アプリケーション連携ガイドライン ([English](http://Aka.ms/AppGuideline), [Japanese](http://Aka.ms/AppGuidelineja))
     - [Azure AD SAML toolkit](https://samltoolkit.azurewebsites.net/)
+    - [サポートされている認証フロー](https://docs.microsoft.com/ja-jp/azure/active-directory/develop/msal-authentication-flows)
 
 - External user
     - [Multi tenant collaboration case study paper](https://aka.ms/multi-tenant-users)
