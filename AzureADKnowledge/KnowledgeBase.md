@@ -10,7 +10,7 @@
 ## Azure AD 全般情報収集
 -	Blog (Microsoft 社員によるブログ) - 最新情報をキャッチするにはこちら
     - [EMS Blog](https://cloudblogs.microsoft.com/enterprisemobility/) <br> Azure AD 開発部門 による告知や Preview 情報が一番最初に公開されるのがここ
-    - [Japan Azure Identity Support Blog ](https://blogs.technet.microsoft.com/jpazureid/) <br> 日本のサポートエンジニアによる、よくあるお問い合わせをベースとしたナレッジベースとして大好評のブログ
+    - [Japan Azure Identity Support Blog ](https://jpazureid.github.io/blog) <br> 日本のサポートエンジニアによる、よくあるお問い合わせをベースとしたナレッジベースとして大好評のブログ
 
 -	Deployment Guide - Azure AD の主要な機能の導入手順書
     - [Azure Active Directory deployment plans](http://aka.ms/deploymentplans)
