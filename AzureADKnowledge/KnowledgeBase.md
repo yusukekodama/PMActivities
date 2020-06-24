@@ -15,6 +15,9 @@
 -	Deployment Guide - Azure AD の主要な機能の導入手順書
     - [Azure Active Directory deployment plans](http://aka.ms/deploymentplans)
 
+-   [M365 roadmap](https://www.microsoft.com/en-us/microsoft-365/roadmap?filters=Azure%20Active%20Directory)
+
+## イベント/ウェビナー系
 -	海外イベント
     - Ignite 2019
         - [Identity: The control plane for your digital transformation, now and into the future](https://myignite.techcommunity.microsoft.com/sessions/87373?source=sessions) <br>
@@ -41,6 +44,7 @@
     - [Azure AD 製品開発チーム主催 Webinar (英語)](https://info.microsoft.com/AADP-Webinar-CLE_AADP-Main-Landing-Page.html?ls=Email)
     <br>
     日本語版と英語版ではセッションテーマや利用される資料、スピーカーが異なります。両方チェックしてください。
+
 -  開発者向け
     - [Microsoft identity platform documentation](aka.ms/aaddev) :OAuth/OpenID Connect Sample code
     - [SCIM Reference code wiki](https://github.com/AzureAD/SCIMReferenceCode/wiki)
@@ -56,13 +60,14 @@
 
 - 脱 ADFS
     - [ADFS からの Azure AD へのアプリケーション移行](aka.ms/migrateapps) - 現在 ADFS に連携されているアプリケーションを Azure AD 連携へ移行するために利用できるガイドやツール群
+    - [SE03 Good Bye ADFS - Azure Active Directory Only の認証方式へ切り替えよう!](https://www.youtube.com/watch?v=o_MCm_0n2Jo&list=PLWtNmdzETm6ZAnpniNHh6NwLVGfp77ifn&index=2&t=1s)
 
-- セキュリティ強化
+- セキュリティ強化のためのステップバイステップ
     - [Five steps to securing your identity infrastructure](https://aka.ms/securitysteps)
     - [Identity and device access configurations](http://aka.ms/m365goldenconfig)
-    - [Break Glass Account](aka.ms/breakglass)
+    - [Securing privileged access for hybrid and cloud deployments in Azure AD](aka.ms/breakglass)
 
-- Application integration
+- アプリケーション連携
     - [Azure AD App gallery への登録](https://docs.microsoft.com/ja-jp/azure/active-directory/develop/howto-app-gallery-listing)
     - Application Campaign 用マテリアル
         - Azure AD アプリケーション連携促進ポスター ([English](http://aka.ms/AppOnePager), [Japanese](http://aka.ms/AppOnePagerja))
@@ -70,9 +75,12 @@
     - [Azure AD SAML toolkit](https://samltoolkit.azurewebsites.net/)
     - [サポートされている認証フロー](https://docs.microsoft.com/ja-jp/azure/active-directory/develop/msal-authentication-flows)
 
-- External user
+- 外部ユーザー連携関連
     - [Multi tenant collaboration case study paper](https://aka.ms/multi-tenant-users)
 
+- GEO
+    - [Where your Microsoft 365 customer data is stored](https://docs.microsoft.com/en-us/office365/enterprise/o365-data-locations?geo=All)
 
-## Code
+
+## コード Repo
 - [Identity GTP code repo](https://repos.opensource.microsoft.com/AzureAD/teams/identitygtp)
