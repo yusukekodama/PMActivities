@@ -50,6 +50,7 @@
     - [SCIM Reference code wiki](https://github.com/AzureAD/SCIMReferenceCode/wiki)
     - [Azure AD for Developers (Pluralsight)](https://www.pluralsight.com/courses/azure-active-directory-developers)
     - [Microsoft identity platform videos](https://www.pluralsight.com/courses/azure-active-directory-developers)  :開発者向け Youtube video シリーズ
+    - [B2C sample code](https://github.com/azure-ad-b2c/samples)
 
 
 ## 技術カテゴリ別リソース
