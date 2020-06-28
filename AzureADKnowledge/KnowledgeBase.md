@@ -68,6 +68,9 @@
     - [Identity and device access configurations](http://aka.ms/m365goldenconfig)
     - [Securing privileged access for hybrid and cloud deployments in Azure AD](aka.ms/breakglass)
 
+- パスワードレス
+    - パスワードレスウィザード：aka.ms/passwordlesswizard
+
 - アプリケーション連携
     - [Azure AD App gallery への登録](https://docs.microsoft.com/ja-jp/azure/active-directory/develop/howto-app-gallery-listing)
     - Application Campaign 用マテリアル
