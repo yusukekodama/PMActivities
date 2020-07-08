@@ -24,12 +24,12 @@
 
 | # |           日時          |                                                                     テーマ                                                                     |                                                                登録リンク                                                               |資料|
 |:-:|:-----------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------:|:-:|
-| 1 | 7/9(木)<br>13:30-14:30 | Azure AD アーキテクチャ概要 - Azure AD を設計するためのガイドライン| [Register](http://aka.ms/azureadarch)| download|
-| 2 | 7/23(木) <br>13:30-14:30 | パスワードレス（第 1 回) - パスワードがインフラ最大の脆弱性となる時代 |Register|download|
-| 3 | 8/6(木)<br>13:30-14:30 | パスワードレス（第 2 回) - Azure AD が提供するトップレベルのセキュリティ機能 |Register|download|
-| 4 | 8/20(木)<br>13:30-14:30  | オンプレミス アプリケーションのモダン化 (Secure Hybrid Access)<br>Elevate Legacy Apps to the modern control plane with Secure Hybrid Access| Register |download|
-| 5 | 9/3(木)<br>13:30-14:30 | COVID-19 でリモート対応に成功した企業と失敗した企業の違いとは？ |Register|download|
-| 6 | 9/17(木)<br>13:30-14:30 | マイクロソフトサポート部門が送る 「Azure AD の監視方法」|Register|download|
+| 1 | 7/9(木)<br>13:30-14:30 | Azure AD アーキテクチャ概要 - Azure AD を設計するためのガイドライン| [Register](http://aka.ms/azureadarch)| [download](https://azureadwebinar.blob.core.windows.net/contents/4-1%20AzureADDeploymentGuideline.pptx)|
+| 2 | 7/23(木) <br>13:30-14:30 | パスワードレス（第 1 回) - パスワードがインフラ最大の脆弱性となる時代 |[Register](http://aka.ms/jpnpasswordless)|download|
+| 3 | 8/6(木)<br>13:30-14:30 | パスワードレス（第 2 回) - Azure AD が提供するトップレベルのセキュリティ機能 |[Register](http://aka.ms/JPNPW2)|download|
+| 4 | 8/20(木)<br>13:30-14:30  | オンプレミス アプリケーションのモダン化 (Secure Hybrid Access)<br>Elevate Legacy Apps to the modern control plane with Secure Hybrid Access| [Register](http://aka.ms/JPNsecurehybrid) |download|
+| 5 | 9/3(木)<br>13:30-14:30 | COVID-19 でリモート対応に成功した企業と失敗した企業の違いとは？ |[Register](http://aka.ms/JPNRemoteWork)|download|
+| 6 | 9/17(木)<br>13:30-14:30 | マイクロソフトサポート部門が送る 「よくある Azure AD のお問い合わせとその未然防止策」|[Register](http://aka.ms/JPNBestPractices)|download|
 
 <br><br>
 ### Webinar に関するフィードバックをいただける方は[こちら](https://forms.microsoft.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR0c2zLzd505PpWCpBKbso6xUMEpUMjNQUEJJSTUwMjJaTlFITE9BQTU2Qy4u)よりお願いいたします！
