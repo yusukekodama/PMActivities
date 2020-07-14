@@ -25,7 +25,7 @@
 | # |           日時          |                                                                     テーマ                                                                     |                                                                登録リンク                                                               |資料|
 |:-:|:-----------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------:|:-:|
 | 1 | 7/9(木)<br>13:30-14:30 | Azure AD アーキテクチャ概要 - Azure AD を設計するためのガイドライン| [Register](http://aka.ms/azureadarch)| [download](https://azureadwebinar.blob.core.windows.net/contents/4-1%20AzureADDeploymentGuideline.pptx)|
-| 2 | 7/30(木) <br>13:30-14:30 | パスワードレス（第 1 回) - パスワードレスの価値と仕組みを語れるようになるセッション |[Register](http://aka.ms/jpnpasswordless)|download|
+| 2 | ~~7/23(木)~~ 7/30(木) <br>13:30-14:30 | パスワードレス（第 1 回) - パスワードレスの価値と仕組みを語れるようになるセッション |[Register](http://aka.ms/jpnpasswordless)|download|
 | 3 | 8/6(木)<br>13:30-14:30 | パスワードレス（第 2 回) - パスワードレス導入方法論 |[Register](http://aka.ms/JPNPW2)|download|
 | 4 | 8/20(木)<br>13:30-14:30  | オンプレミス アプリケーションのモダン化 (Secure Hybrid Access)<br>Elevate Legacy Apps to the modern control plane with Secure Hybrid Access| [Register](http://aka.ms/JPNsecurehybrid) |download|
 | 5 | 9/3(木)<br>13:30-14:30 | COVID-19 でリモート対応に成功した企業と失敗した企業の違いとは？ |[Register](http://aka.ms/JPNRemoteWork)|download|
