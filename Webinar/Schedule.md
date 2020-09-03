@@ -28,7 +28,7 @@
 | 2 | 7/30(木) <br>13:30-14:30 | パスワードレス（前編) - パスワードレスの価値と仕組みを語れるようになるセッション | [Recording](http://aka.ms/azureadwebinar4-2)|[download](https://azureadwebinar.blob.core.windows.net/contents/4-2%20Passwordless1-Introduction%20to%20Passwordless.pptx)|
 | 3 | 8/6(木)<br>13:30-14:30 | パスワードレス（後編) - パスワードレス導入方法論 |[Recording](http://aka.ms/azureadwebinar4-3)|[download](https://azureadwebinar.blob.core.windows.net/contents/4-3%20Passwordless2-Implementation%20roadmap.pptx)|
 | 4 | 8/20(木)<br>13:30-14:30  | オンプレミス アプリケーションのモダン化 (Secure Hybrid Access)<br>Elevate Legacy Apps to the modern control plane with Secure Hybrid Access| [Recording](http://aka.ms/azureadwebinar4-4) |[download](https://azureadwebinar.blob.core.windows.net/contents/4-4%20ElevateLegacyAppsToModernControlPlane.pptx)<br>[QA sheet](https://azureadwebinar.blob.core.windows.net/contents/WebinarQA(4-4).xlsx)|
-| 5 | 9/3(木)<br>13:30-14:30 | COVID-19 でリモート対応に成功した企業と失敗した企業の違いとは？ |[Register](http://aka.ms/JPNRemoteWork)|download|
+| 5 | 9/3(木)<br>13:30-14:30 | COVID-19 でリモート対応に成功した企業と失敗した企業の違いとは？ |[Register](http://aka.ms/JPNRemoteWork)|[download](https://azureadwebinar.blob.core.windows.net/contents/4-5_Enabling%20Remote%20Work%20in%20response%20to%20COVID-19.pptx)|
 | 6 | 9/17(木)<br>13:30-14:30 | マイクロソフトサポート部門が送る 「よくある Azure AD のお問い合わせとその未然防止策」|[Register](http://aka.ms/JPNBestPractices)|download|
 
 ※ Session#4 では Teams LIVE 配信の不具合があり、頂戴したご質問をすべて回答できずにイベントが終了となってしまったため、頂戴した QA を Excel シートにまとめて資料と一緒にアップロードしております。他すべてのセッションに関して同様にするかどうかについては作業量などを考慮して検討したいと思います
