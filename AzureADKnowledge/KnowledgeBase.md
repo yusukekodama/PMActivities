@@ -17,6 +17,42 @@
 
 -   [M365 roadmap](https://www.microsoft.com/en-us/microsoft-365/roadmap?filters=Azure%20Active%20Directory)
 
+
+## 技術カテゴリ別リソース
+- Zero Trust
+    - [Zero Trust Deployment Center](http://aka.ms/ZTGuide)
+- デバイス管理系
+    - [デバイス登録フロー詳細](https://docs.microsoft.com/en-us/windows/security/identity-protection/hello-for-business/hello-how-it-works-device-registration) <br> Azure AD Join, Hybrid Azure AD Join 時のデバイスの Azure AD への登録フロー図
+    - [Azure AD Join デバイスでオンプレリソースへの SSO が機能するしくみ](https://docs.microsoft.com/ja-jp/azure/active-directory/devices/azuread-join-sso) <br> Azure AD Join するとオンプレリソースへの SSO ができなくなる、というよくある誤解に対する回答がこちら
+    - [Azure Active Directory by Jairo Cadena](https://jairocadena.com/) <br> 元 Device PM Jairo のブログ。未だに一番細かいことが記載されているトピックも存在
+
+- 脱 ADFS
+    - [ADFS からの Azure AD へのアプリケーション移行](aka.ms/migrateapps) - 現在 ADFS に連携されているアプリケーションを Azure AD 連携へ移行するために利用できるガイドやツール群
+    - [SE03 Good Bye ADFS - Azure Active Directory Only の認証方式へ切り替えよう!](https://www.youtube.com/watch?v=o_MCm_0n2Jo&list=PLWtNmdzETm6ZAnpniNHh6NwLVGfp77ifn&index=2&t=1s)
+
+- セキュリティ強化のためのステップバイステップ
+    - [Five steps to securing your identity infrastructure](https://aka.ms/securitysteps)
+    - [Identity and device access configurations](http://aka.ms/m365goldenconfig)
+    - [Securing privileged access for hybrid and cloud deployments in Azure AD](aka.ms/breakglass)
+
+- パスワードレス
+    - パスワードレスウィザード：aka.ms/passwordlesswizard
+
+- アプリケーション連携
+    - [Decode20 S09 Apps on Azure AD アプリケーション連携の WHY と HOW](https://www.youtube.com/watch?v=dkbJXn04I9M)
+    - [Azure AD App gallery への登録](https://docs.microsoft.com/ja-jp/azure/active-directory/develop/howto-app-gallery-listing)
+    - Application Campaign 用マテリアル
+        - Azure AD アプリケーション連携促進ポスター ([English](http://aka.ms/AppOnePager), [Japanese](http://aka.ms/AppOnePagerja))
+        - Azure AD アプリケーション連携ガイドライン ([English](http://Aka.ms/AppGuideline), [Japanese](http://Aka.ms/AppGuidelineja))
+    - [Azure AD SAML toolkit](https://samltoolkit.azurewebsites.net/)
+    - [サポートされている認証フロー](https://docs.microsoft.com/ja-jp/azure/active-directory/develop/msal-authentication-flows)
+
+- 外部ユーザー連携関連
+    - [Multi tenant collaboration case study paper](https://aka.ms/multi-tenant-users)
+
+- GEO
+    - [Where your Microsoft 365 customer data is stored](https://docs.microsoft.com/en-us/office365/enterprise/o365-data-locations?geo=All)
+
 ## イベント/ウェビナー系
 -	海外イベント
     - Ignite 2019
@@ -51,41 +87,6 @@
     - [Azure AD for Developers (Pluralsight)](https://www.pluralsight.com/courses/azure-active-directory-developers)
     - [Microsoft identity platform videos](https://www.pluralsight.com/courses/azure-active-directory-developers)  :開発者向け Youtube video シリーズ
     - [B2C sample code](https://github.com/azure-ad-b2c/samples)
-
-
-## 技術カテゴリ別リソース
-- デバイス管理系
-    - [デバイス登録フロー詳細](https://docs.microsoft.com/en-us/windows/security/identity-protection/hello-for-business/hello-how-it-works-device-registration) <br> Azure AD Join, Hybrid Azure AD Join 時のデバイスの Azure AD への登録フロー図
-    - [Azure AD Join デバイスでオンプレリソースへの SSO が機能するしくみ](https://docs.microsoft.com/ja-jp/azure/active-directory/devices/azuread-join-sso) <br> Azure AD Join するとオンプレリソースへの SSO ができなくなる、というよくある誤解に対する回答がこちら
-    - [Azure Active Directory by Jairo Cadena](https://jairocadena.com/) <br> 元 Device PM Jairo のブログ。未だに一番細かいことが記載されているトピックも存在
-
-- 脱 ADFS
-    - [ADFS からの Azure AD へのアプリケーション移行](aka.ms/migrateapps) - 現在 ADFS に連携されているアプリケーションを Azure AD 連携へ移行するために利用できるガイドやツール群
-    - [SE03 Good Bye ADFS - Azure Active Directory Only の認証方式へ切り替えよう!](https://www.youtube.com/watch?v=o_MCm_0n2Jo&list=PLWtNmdzETm6ZAnpniNHh6NwLVGfp77ifn&index=2&t=1s)
-
-- セキュリティ強化のためのステップバイステップ
-    - [Five steps to securing your identity infrastructure](https://aka.ms/securitysteps)
-    - [Identity and device access configurations](http://aka.ms/m365goldenconfig)
-    - [Securing privileged access for hybrid and cloud deployments in Azure AD](aka.ms/breakglass)
-
-- パスワードレス
-    - パスワードレスウィザード：aka.ms/passwordlesswizard
-
-- アプリケーション連携
-    - [Decode20 S09 Apps on Azure AD アプリケーション連携の WHY と HOW](https://www.youtube.com/watch?v=dkbJXn04I9M)
-    - [Azure AD App gallery への登録](https://docs.microsoft.com/ja-jp/azure/active-directory/develop/howto-app-gallery-listing)
-    - Application Campaign 用マテリアル
-        - Azure AD アプリケーション連携促進ポスター ([English](http://aka.ms/AppOnePager), [Japanese](http://aka.ms/AppOnePagerja))
-        - Azure AD アプリケーション連携ガイドライン ([English](http://Aka.ms/AppGuideline), [Japanese](http://Aka.ms/AppGuidelineja))
-    - [Azure AD SAML toolkit](https://samltoolkit.azurewebsites.net/)
-    - [サポートされている認証フロー](https://docs.microsoft.com/ja-jp/azure/active-directory/develop/msal-authentication-flows)
-
-- 外部ユーザー連携関連
-    - [Multi tenant collaboration case study paper](https://aka.ms/multi-tenant-users)
-
-- GEO
-    - [Where your Microsoft 365 customer data is stored](https://docs.microsoft.com/en-us/office365/enterprise/o365-data-locations?geo=All)
-
 
 ## コード Repo
 - [Identity GTP code repo](https://repos.opensource.microsoft.com/AzureAD/teams/identitygtp)
