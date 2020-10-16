@@ -9,7 +9,7 @@
 
 ## Azure AD 全般情報収集
 - [Azure AD 製品開発チーム主催 Webinar (日本語)](http://aka.ms/azureadwebinar) <br> これまで 4 シリーズ全 22 セッションを実施、レコーディングや資料のダウンロードもこちらから可能です！
-    - Azure AD Webinar 検索用の [Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNzE1ODJhNjgtODE2MC00NWI1LTk2MDEtYmJmY2U1NDg0YjY2IiwidCI6ImRkM2U4YzViLWQ1OTItNDNkYS1iMjBiLWM2MjRkMDEwOTAzNCJ9&fbclid=IwAR14hPQUArG1XJ3kKTDIPv_lWS0hCi9skhUZGzB5zSaVyBU14xuX6yc4lgQ) - カブコム石川さんにご提供いただきました！
+    - Azure AD Webinar 検索用の [Power BI Dashboard](https://bit.ly/AzureAdWebinar) - カブコム石川さんにご提供いただきました！
 
 - Blog (Microsoft 社員によるブログ) - 最新情報をキャッチするにはこちら
     - [EMS Blog](https://cloudblogs.microsoft.com/enterprisemobility/) <br> Azure AD 開発部門 による告知や Preview 情報が一番最初に公開されるのがここ
