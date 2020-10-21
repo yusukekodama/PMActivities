@@ -42,6 +42,7 @@
     - パスワードレスウィザード：aka.ms/passwordlesswizard
 
 - アプリケーション連携
+    - [Azure AD 対応プロトコル一覧](https://docs.microsoft.com/en-us/azure/active-directory/fundamentals/auth-sync-overview)
     - [Decode20 S09 Apps on Azure AD アプリケーション連携の WHY と HOW](https://www.youtube.com/watch?v=dkbJXn04I9M)
     - [Azure AD App gallery への登録](https://docs.microsoft.com/ja-jp/azure/active-directory/develop/howto-app-gallery-listing)
     - Application Campaign 用マテリアル
