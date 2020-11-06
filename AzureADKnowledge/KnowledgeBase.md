@@ -53,6 +53,8 @@
 
 - 外部ユーザー連携関連
     - [Multi tenant collaboration case study paper](https://aka.ms/multi-tenant-users)
+    - [Gathering information around external identity proliferation (for Access Reviews Disable-and-Delete) in Azure AD](https://github.com/microsoft/access-reviews-samples/tree/master/ExternalIdentityUse)
+    - [Finding and reviewing external identities ("B2B Guests") that have never signed into your tenant, or have signed in to your tenant a long time ago](https://github.com/microsoft/access-reviews-samples/tree/master/ReviewStaleExternals)
 
 - GEO
     - [Where your Microsoft 365 customer data is stored](https://docs.microsoft.com/en-us/office365/enterprise/o365-data-locations?geo=All)
