@@ -97,3 +97,7 @@
 
 ## コード Repo
 - [Identity GTP code repo](https://repos.opensource.microsoft.com/AzureAD/teams/identitygtp)
+
+
+## D&I
+- [Exclusive terms](https://github.com/merill/InclusivenessAnalyzer/blob/main/terms.md)
