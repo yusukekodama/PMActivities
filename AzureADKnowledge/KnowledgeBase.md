@@ -50,6 +50,7 @@
         - Azure AD アプリケーション連携ガイドライン ([English](http://Aka.ms/AppGuideline), [Japanese](http://Aka.ms/AppGuidelineja))
     - [Azure AD SAML toolkit](https://samltoolkit.azurewebsites.net/)
     - [サポートされている認証フロー](https://docs.microsoft.com/ja-jp/azure/active-directory/develop/msal-authentication-flows)
+    - [Permission grant チェックスクリプト](https://github.com/mepples21/azureadconfigassessment)
 
 - 外部ユーザー連携関連
     - [Multi tenant collaboration case study paper](https://aka.ms/multi-tenant-users)
