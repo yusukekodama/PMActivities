@@ -1,6 +1,12 @@
 # 連絡事項
-**※お願い: 各 Webinar や関連するイベント (de:code, Ignite など) セッションでの発表内容は発表日時時点での最新情報をベースに行っています。動画/資料を視聴される時点で情報が古くなっているものがあります点をご了承ください**
 
+- Season5 の予定をアップロードしました！
+<br>
+
+<br>
+※お願い: 各 Webinar や関連するイベント (de:code, Ignite など) セッションでの発表内容は発表日時時点での最新情報をベースに行っています。動画/資料を視聴される時点で情報が古くなっているものがあります点をご了承ください
+
+<br><br>
 
 
 # Azure AD webinar にご参加ください <br>(セッション情報随時追加、Bookmark 推奨!)
@@ -17,6 +23,27 @@
 その他ご興味のあるみなさまにお楽しみいただけるよう基礎的な内容からカバーするようにしております。是非お気軽にご参加ください。 
 
 # スケジュール
+## Season 5 (2021年 2月 - 5月実施)
+
+<br>
+
+
+| # |           日時          |                                                                     テーマ                                                                     |                                                                登録リンク                                                               |資料|
+|:-:|:-----------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------:|:-:|
+| 1 | 2/25(木)<br>13:30-14:30 | オンプレ AD から Azure AD への移行計画 ～「今何をすればいいのか」「今後どういう状況になるのか」について | [Register](https://aka.ms/Registration_2/25_MigrationStrategy)| To be uploaded |
+| 2 | 3/11(木) <br>13:30-14:30 | Goodbye ADFS 2021 | [Register](https://aka.ms/Registration_3/11_GoodbyeADFS)|To be uploaded|
+| 3 | 3/25(木)<br>13:30-14:30 | [解説編] あなたの資産をちゃんと管理できていますか？「適切なアクセス権」を「適切な期間」のみ「適切なユーザーに付与」する方法  |[Register](https://aka.ms/Registration_3/25_Learn_Appropriate)|To be uploaded|
+| 4 | 4/8(木)<br>13:30-14:30  | [実装編] あなたの資産をちゃんと管理できていますか？「適切なアクセス権」を「適切な期間」のみ「適切なユーザーに付与」する方法 | [Register](https://aka.ms/Registration_4/8_Deploy_Appropriate) |To be uploadedD|
+| 5 | 4/22(木)<br>13:30-14:30 | インフラ担当者のための Azure AD 開発入門 |[Register](https://aka.ms/Registration_4/22_Dev_Basics)|To be uploaded|
+| 6 | 5/13(木)<br>13:30-14:30 | マイクロソフトサポート部門が送る 「Azure AD 認証情報のキャッシュを解き明かす」|[Register](https://aka.ms/Registration_5/13_Cache_Usage)|To be uploaded|
+
+<br><br>
+### Webinar に関するフィードバックをいただける方は[こちら](https://forms.microsoft.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR0c2zLzd505PpWCpBKbso6xUMEpUMjNQUEJJSTUwMjJaTlFITE9BQTU2Qy4u)よりお願いいたします！
+
+<br><br>
+
+# 過去の Webinar のオンデマンド配信アーカイブ
+
 ## Season 4 (2020年 7月 - 9月実施)
 
 <br>
@@ -31,14 +58,9 @@
 | 5 | 9/3(木)<br>13:30-14:30 | COVID-19 でリモート対応に成功した企業と失敗した企業の違いとは？ |[Recording](http://aka.ms/azureadwebinar4-5)|[download](https://azureadwebinar.blob.core.windows.net/contents/4-5_Enabling%20Remote%20Work%20in%20response%20to%20COVID-19.pptx)|
 | 6 | 9/17(木)<br>13:30-14:30 | マイクロソフトサポート部門が送る 「よくある Azure AD のお問い合わせとその未然防止策」|[Recording](http://aka.ms/azureadwebinar4-6)|[download](https://azureadwebinar.blob.core.windows.net/contents/Webiner20200917-配布版.pptx)|
 
-※ Session#4 では Teams LIVE 配信の不具合があり、頂戴したご質問をすべて回答できずにイベントが終了となってしまったため、頂戴した QA を Excel シートにまとめて資料と一緒にアップロードしております。他すべてのセッションに関して同様にするかどうかについては作業量などを考慮して検討したいと思います
+※ Session#4 では Teams LIVE 配信の不具合があり、頂戴したご質問をすべて回答できずにイベントが終了となってしまったため、頂戴した QA を Excel シートにまとめて資料と一緒にアップロードしております。
 
-<br><br>
-### Webinar に関するフィードバックをいただける方は[こちら](https://forms.microsoft.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR0c2zLzd505PpWCpBKbso6xUMEpUMjNQUEJJSTUwMjJaTlFITE9BQTU2Qy4u)よりお願いいたします！
-
-<br><br>
-
-# 過去の Webinar のオンデマンド配信アーカイブ
+<br>
 
 ## Season 3 (2019年 3月 - 6月実施)
 <br>
