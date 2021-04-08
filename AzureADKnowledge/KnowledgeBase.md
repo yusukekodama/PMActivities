@@ -22,6 +22,8 @@
 
 
 ## 技術カテゴリ別リソース
+- Conditional Access
+    - [Conditional Access Backup](https://github.com/Azure-Samples/azure-ad-conditional-access-apis/tree/main/05-manage/01-backup-restore)
 - Zero Trust
     - [Zero Trust Deployment Center](http://aka.ms/ZTGuide)
 - デバイス管理系
