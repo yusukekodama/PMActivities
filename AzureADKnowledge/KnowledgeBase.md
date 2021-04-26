@@ -62,6 +62,9 @@
 - GEO
     - [Where your Microsoft 365 customer data is stored](https://docs.microsoft.com/en-us/office365/enterprise/o365-data-locations?geo=All)
 
+- Azure AD Assessment
+    - [Assessment v2](https://github.com/AzureAD/AzureADAssessment)
+
 ## イベント/ウェビナー系
 -	海外イベント
     - Ignite 2019
