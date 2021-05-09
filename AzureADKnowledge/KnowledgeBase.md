@@ -39,6 +39,9 @@
     - [Five steps to securing your identity infrastructure](https://aka.ms/securitysteps)
     - [Identity and device access configurations](http://aka.ms/m365goldenconfig)
     - [Securing privileged access for hybrid and cloud deployments in Azure AD](aka.ms/breakglass)
+    - Incident response
+        - [Incident response playbook](https://aka.ms/IRPlaybooks)
+        - [PowerShell Gallery - AzureADIncidentResponse](https://www.powershellgallery.com/packages/AzureADIncidentResponse/4.0)
 
 - パスワードレス
     - パスワードレスウィザード：aka.ms/passwordlesswizard
