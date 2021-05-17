@@ -1,6 +1,6 @@
 # 連絡事項
 
-- Season5 の予定をアップロードしました！
+- Season5 も大好評いただきました！ Season6 も頑張りたいと思いますので、ご期待ください！ (今夏以降を予定)
 <br>
 
 ※お願い: 各 Webinar や関連するイベント (de:code, Ignite など) セッションでの発表内容は発表日時時点での最新情報をベースに行っています。動画/資料を視聴される時点で情報が古くなっているものがあります点をご了承ください
@@ -34,7 +34,7 @@
 | 3 | 3/25(木)<br>13:30-14:30 | **[解説編] あなたの資産をちゃんと管理できていますか？「適切なアクセス権」を「適切な期間」のみ「適切なユーザーに付与」する方法** <br> Digital Trust Summit 2020 で紹介したセッション (https://aka.ms/DigitalTrustSummit2020ELM) の継続セッションです。セキュリティの基本として「必要最小限のアクセス権の付与」「使うときだけアクセス権を付与する」「必要のなくなったアクセス権はすぐに外す」などと言われていますがこれがきっちりとできている企業はどれぐらいいるのでしょうか？このセッションでは Identity Governance の機能が上記課題をどのように解決していくのかを紹介します。  |[Recording](https://aka.ms/azureadwebinar5-3)|[download](https://azureadwebinar.blob.core.windows.net/contents/5-3%20AppropriatePrivilegeToAppropriateUserForAppropriateTime.pptx)<br>[QA sheet](https://azureadwebinar.blob.core.windows.net/contents/5-3%20AppropriatePrivilegeToAppropriateUserForAppropriateTime_Q_A.xlsx)|
 | 4 | 4/8(木)<br>13:30-14:30  | **[実装編] あなたの資産をちゃんと管理できていますか？「適切なアクセス権」を「適切な期間」のみ「適切なユーザーに付与」する方法** <br> 前回のセッションで話した Identity Governance の実装方法を紹介します。まずは PoC としてこの動画で紹介する内容をお試しいただき、あなたの環境での有用性をご確認ください。 | [Recording](https://aka.ms/azureadwebinar5-4) | [download](https://azureadwebinar.blob.core.windows.net/contents/5-4%20AppropriatePrivilegeToAppropriateUserForAppropriateTime-practical.pptx)<br>[QA sheet](https://azureadwebinar.blob.core.windows.net/contents/AzureADWebinar5-4_Q_A.xlsx)|
 | 5 | 4/22(木)<br>13:30-14:30 | **インフラ担当者のための Azure AD 開発入門** <br> "いま開発しているアプリケーションを Azure AD と連携したい、一体どうしたらよいんですか？"と社内の開発者に聞かれてギクりときたことのある インフラ/ID基盤担当の方はこちらのセッションにご参加ください。Identity 担当者が押さえておくべきアプリケーション登録のセキュリティ設定やアプリケーションと Azure AD の連携動作フローを解説します。 |[Recording](https://aka.ms/azureadwebinar5-5)|[download](https://azureadwebinar.blob.core.windows.net/contents/5-5%20Azure%20AD%20for%20developers.pptx)<br>[QA sheet](https://azureadwebinar.blob.core.windows.net/contents/AzureADWebinar5-5_Q_A.xlsx)|
-| 6 | 5/13(木)<br>13:30-14:30 | **マイクロソフトサポート部門が送る 「Azure AD 認証情報のキャッシュを解き明かす」** <br> Azure AD では認証情報が適切にキャッシュされることによりシングルサインオンを実現しています。利便性は高くなる機能である反面、すべてバックグラウンドで行われる処理であるため、管理者はキャッシュがどのように扱われているのかを疑問に思う事があると思います。このセッションでは Azure AD のトークン情報の扱い方と、様々なシナリオにおいてキャッシュがどのように扱われているのかを明確にしていきます。 |[Register](https://aka.ms/azureadwebinar5-6)|[download](https://azureadwebinar.blob.core.windows.net/contents/5-6%20Azure%20AD%20authentication%20cache.pptx)<br>[QA sheet](https://azureadwebinar.blob.core.windows.net/contents/AzureADWebinar5-6_Q_A.xlsx)|
+| 6 | 5/13(木)<br>13:30-14:30 | **マイクロソフトサポート部門が送る 「Azure AD 認証情報のキャッシュを解き明かす」** <br> Azure AD では認証情報が適切にキャッシュされることによりシングルサインオンを実現しています。利便性は高くなる機能である反面、すべてバックグラウンドで行われる処理であるため、管理者はキャッシュがどのように扱われているのかを疑問に思う事があると思います。このセッションでは Azure AD のトークン情報の扱い方と、様々なシナリオにおいてキャッシュがどのように扱われているのかを明確にしていきます。 |[Recording](https://aka.ms/azureadwebinar5-6)|[download](https://azureadwebinar.blob.core.windows.net/contents/5-6%20Azure%20AD%20authentication%20cache.pptx)<br>[QA sheet](https://azureadwebinar.blob.core.windows.net/contents/AzureADWebinar5-6_Q_A.xlsx)|
 
 <br><br>
 ### Webinar に関するフィードバックをいただける方は[こちら](https://forms.microsoft.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR0c2zLzd505PpWCpBKbso6xUMEpUMjNQUEJJSTUwMjJaTlFITE9BQTU2Qy4u)よりお願いいたします！
