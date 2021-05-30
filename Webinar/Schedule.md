@@ -7,6 +7,12 @@
 
 <br>
 
+# レコーディングを YouTube 化しました
+こちらからこれまで全ての動画を視聴いただけます
+<br>
+http://aka.ms/AADRecording
+
+<br>
 
 # Azure AD webinar にご参加ください <br>(セッション情報随時追加、Bookmark 推奨!)
 - Azure AD 製品開発チームのプログラムマネージャーが実施する Azure AD Webinar (日本語)
