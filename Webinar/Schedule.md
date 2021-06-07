@@ -14,6 +14,12 @@ http://aka.ms/AADRecording
 
 <br>
 
+Azure AD 開発チームさりな先生がレジェンド松下氏とコラボした動画はこちら！
+
+[<img src="https://img.youtube.com/vi/2LfGlJttpTc/0.jpg" width=35%>](https://www.youtube.com/watch?v=2LfGlJttpTc) [<img src="https://img.youtube.com/vi/Ms1aFrCA6Ug/0.jpg" width=35%>](https://www.youtube.com/watch?v=Ms1aFrCA6Ug)
+
+
+
 # Azure AD webinar にご参加ください <br>(セッション情報随時追加、Bookmark 推奨!)
 - Azure AD 製品開発チームのプログラムマネージャーが実施する Azure AD Webinar (日本語)
 - 技術レベルは L100-200 で実施
