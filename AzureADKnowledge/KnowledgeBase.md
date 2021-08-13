@@ -22,6 +22,10 @@
 
 
 ## 技術カテゴリ別リソース
+- Azure AD Architecture series
+    - [Azure AD Core Store: Regions and Data Centers](https://www.youtube.com/watch?v=O8ZPjSxNte0&list=PL3ZTgFEc7LyvWBvMTRArx5k5hz-wcA4VF&index=30)
+    - [Azure AD Core Store: Scale Units](https://www.youtube.com/watch?v=OcKO44GtHh8&list=PL3ZTgFEc7LyvWBvMTRArx5k5hz-wcA4VF&index=28)
+    - [Azure AD Core Store: Read and Write Replicas](https://www.youtube.com/watch?v=AeLDtcpKc-U&list=PL3ZTgFEc7LyvWBvMTRArx5k5hz-wcA4VF&index=27)
 - Conditional Access
     - [CA policy documenter - non MS tool](https://github.com/nicolonsky/ConditionalAccessDocumentation)
     - [Conditional Access Backup](https://github.com/Azure-Samples/azure-ad-conditional-access-apis/tree/main/05-manage/01-backup-restore)
