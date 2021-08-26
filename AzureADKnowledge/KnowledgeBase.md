@@ -29,6 +29,7 @@
 - Conditional Access
     - [CA policy documenter - non MS tool](https://github.com/nicolonsky/ConditionalAccessDocumentation)
     - [Conditional Access Backup](https://github.com/Azure-Samples/azure-ad-conditional-access-apis/tree/main/05-manage/01-backup-restore)
+    - [Conditional Access as Code](https://github.com/AlexFilipin/ConditionalAccess)
 - Zero Trust
     - [Zero Trust Deployment Center](http://aka.ms/ZTGuide)
 - デバイス管理系
