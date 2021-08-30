@@ -22,6 +22,12 @@
 
 
 ## 技術カテゴリ別リソース
+- LOB applications for IT Pro
+    - [Day 1 recording](https://youtu.be/rxaqQsx1U9I)
+    - [Day 2 recording](https://youtu.be/I9KOBjCD1ds)
+    - [PPT slides](https://github.com/kylemar/LOB-Apps-for-IT-Pros)
+    - [Demo guide](https://github.com/kylemar/BestPracticesDemo)
+
 - Azure AD Architecture series
     - [Azure AD Core Store: Regions and Data Centers](https://www.youtube.com/watch?v=O8ZPjSxNte0&list=PL3ZTgFEc7LyvWBvMTRArx5k5hz-wcA4VF&index=30)
     - [Azure AD Core Store: Scale Units](https://www.youtube.com/watch?v=OcKO44GtHh8&list=PL3ZTgFEc7LyvWBvMTRArx5k5hz-wcA4VF&index=28)
