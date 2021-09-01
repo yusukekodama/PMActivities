@@ -68,6 +68,7 @@
     - [Azure AD SAML toolkit](https://samltoolkit.azurewebsites.net/)
     - [サポートされている認証フロー](https://docs.microsoft.com/ja-jp/azure/active-directory/develop/msal-authentication-flows)
     - [Permission grant チェックスクリプト](https://github.com/mepples21/azureadconfigassessment)
+    - [Hiding in the clouds: How attackers can use applications for sustained persistence and how to find id - Blue Team Con 2021](http://aka.ms/BlueTeamConDeck)
 
 - 外部ユーザー連携関連
     - [Multi tenant collaboration case study paper](https://aka.ms/multi-tenant-users)
