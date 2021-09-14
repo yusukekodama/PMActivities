@@ -127,3 +127,4 @@
 
 ## D&I
 - [Exclusive terms](https://github.com/merill/InclusivenessAnalyzer/blob/main/terms.md)
+- [Inclusive language tech](https://buffer.com/resources/inclusive-language-tech/)
