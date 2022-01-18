@@ -1,5 +1,5 @@
 # 連絡事項
-我々 GTP (Get-To-Production) チームで日本ベースの Program Manager を 1 名採用募集開始しました！製品技術のエキスパートになりつつお客様と製品開発者を繋ぐやりがいのある仕事になっています。我こそはという方、是非ご応募ください！<br>
+Webinar 新章計画中！<br>
 https://careers.microsoft.com/us/en/job/1137983/Senior-Program-Manager
 <br>
 
