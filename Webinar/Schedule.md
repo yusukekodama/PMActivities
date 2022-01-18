@@ -1,7 +1,6 @@
 # 連絡事項
 Webinar 新章計画中！<br>
-https://careers.microsoft.com/us/en/job/1137983/Senior-Program-Manager
-<br>
+
 
 ※お願い: 各 Webinar や関連するイベント (de:code, Ignite など) セッションでの発表内容は発表日時時点での最新情報をベースに行っています。動画/資料を視聴される時点で情報が古くなっているものがあります点をご了承ください
 
