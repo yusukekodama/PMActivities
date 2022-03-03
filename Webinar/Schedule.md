@@ -1,6 +1,6 @@
 # 連絡事項
-Webinar 新章計画中！<br>
-
+Webinar Season 6 始動！<br>
+以下のリンクから是非登録をお願いします！
 
 ※お願い: 各 Webinar や関連するイベント (de:code, Ignite など) セッションでの発表内容は発表日時時点での最新情報をベースに行っています。動画/資料を視聴される時点で情報が古くなっているものがあります点をご了承ください
 
@@ -37,6 +37,27 @@ Azure AD 開発チームさりな先生がレジェンド松下氏とコラボ�
 <br>
 
 # スケジュール
+## Season 6 (2022年 3月 - 5月実施)
+
+<br>
+
+
+| # |           日時          |                                                                     テーマ                                                                     |                                                                登録リンク                                                               |資料|
+|:-:|:-----------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------:|:-:|
+| 1 | 3/17(木) <br>14:00-15:00 | **Azure AD What’s new – Early 2022 edition** <br> 意外とこれまでの Webinar で取り扱っていなかった新機能紹介セッションです。ここ半年で登場した Public Preview, GA 機能を中心に開発コンセプトや利用シーンを含めて解説します。みなさんの Azure AD 基盤のさらなる進化のヒントにしてもらいたいと思います| [Register](https://aka.ms/Reg_AAD_3.17)| TBD |
+| 2 | 3/31(木) <br>14:00-15:00 | **Identity Protection : リスクを検出して identity を保護する理由** <br> Azure AD には Identity のリスク検出をするための Identity Protection の機能があります。このセッションでは初心者を対象に「Identity Protection が検出するリスクについて」「リスク検出の重要性」「リスク検出を活用して Identity を保護する方法」について紹介いたします。 | [Register](https://aka.ms/Reg_IDprotect_3.31)| TBD |
+| 3 | 4/14(木) <br>14:00-15:00 | **Azure AD 認証情報のキャッシュを解き明かす 第 2 第 モバイルのシナリオ (Guest Speaker: Customer Support Services)** <br> Azure AD では認証情報が適切にキャッシュされることによりシングルサインオンを実現しています。利便性は高くなる機能である反面、すべてバックグラウンドで行われる処理であるため、管理者はキャッシュがどのように扱われているのかを疑問に思う事があると思います。前回のセッションでは、Windows の PC に焦点を当てておりましたが、このセッションでは iOS や Android といったモバイル デバイスに焦点をあてて、キャッシュがどのように扱われているのかを明確にしていきます。 |[Register](https://aka.ms/Reg_CSSAAD_4.14)| TBD |
+| 4 | 4/28(木) <br>14:00-15:00  | **Azure AD のよくある展開ブロッカーと乗り越え方５選　(Guest Speaker: Fast Track Center)** <br> Microsoft 365(M365)を始めとするクラウドサービス、自社アプリをより安全に利用していくにはID管理基盤であるAzure ADに対して、企業内のデバイスやアプリケーション、データをどんどん連携・集約していき、Azure ADの機能をいかに使い倒していくかが鍵になります。このセッションでは、マイクロソフトのM365の展開支援部隊であるFastTrackセンターの担当者が、大企業でAzure AD を展開していく中で、よくあるお客様の技術課題や悩み、相談事について、それらをどのように乗り越えたか実際の体験談を交えながら解説いたします。| [Register](https://aka.ms/Reg_FTCAAD_4.28) | TBD |
+| 5 | 5/12(木) <br>14:00-15:00 | **Azure AD と Sentinel ではじめる Modern SOC (Guest Speaker: Customer Engineer)** <br> Azure AD のサインインログや Audit Log を分析し、 Identity Protection のリスクを確認する事は攻撃の兆候を検知する上で大切です。今回は、Azure AD と Microsoft Sentinel を連携して、これらの Security Operation を効率的に対応する方法をご紹介します。 |[Register](https://aka.ms/Reg_SOC_5.12 )| TBD |
+| 6 | 5/26(木) <br>14:00-15:00 | **Azure AD B2C 入門 : 今話題のD2C(Direct to Cosumer)向けの認証サービス入門** <br> Azure AD B2Cでは、企業・組織が消費者や個人に繋がるためのD2Cアプリケーションに安全な認証サービスとID管理を提供致します。ITインフラ担当者だけではなく企業のアプリ開発者およびお客様のアプリ開発を支援しているパートナーに向けてAzure AD B2Cの利用方法をご紹介いたします。 |[Register](https://aka.ms/Reg_B2CAAD_5.26)| TBD |
+
+<br><br>
+### Webinar に関するフィードバックをいただける方は[こちら](https://forms.microsoft.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR0c2zLzd505PpWCpBKbso6xUMEpUMjNQUEJJSTUwMjJaTlFITE9BQTU2Qy4u)よりお願いいたします！
+
+<br><br>
+
+# 過去の Webinar のオンデマンド配信アーカイブ
+
 ## Season 5 (2021年 2月 - 5月実施)
 
 <br>
@@ -50,13 +71,6 @@ Azure AD 開発チームさりな先生がレジェンド松下氏とコラボ�
 | 4 | 4/8(木)<br>13:30-14:30  | **[実装編] あなたの資産をちゃんと管理できていますか？「適切なアクセス権」を「適切な期間」のみ「適切なユーザーに付与」する方法** <br> 前回のセッションで話した Identity Governance の実装方法を紹介します。まずは PoC としてこの動画で紹介する内容をお試しいただき、あなたの環境での有用性をご確認ください。 | [Recording](https://aka.ms/azureadwebinar5-4) | [download](https://azureadwebinar.blob.core.windows.net/contents/5-4%20AppropriatePrivilegeToAppropriateUserForAppropriateTime-practical.pptx)<br>[QA sheet](https://azureadwebinar.blob.core.windows.net/contents/AzureADWebinar5-4_Q_A.xlsx)|
 | 5 | 4/22(木)<br>13:30-14:30 | **インフラ担当者のための Azure AD 開発入門** <br> "いま開発しているアプリケーションを Azure AD と連携したい、一体どうしたらよいんですか？"と社内の開発者に聞かれてギクりときたことのある インフラ/ID基盤担当の方はこちらのセッションにご参加ください。Identity 担当者が押さえておくべきアプリケーション登録のセキュリティ設定やアプリケーションと Azure AD の連携動作フローを解説します。 |[Recording](https://aka.ms/azureadwebinar5-5)|[download](https://azureadwebinar.blob.core.windows.net/contents/5-5%20Azure%20AD%20for%20developers.pptx)<br>[QA sheet](https://azureadwebinar.blob.core.windows.net/contents/AzureADWebinar5-5_Q_A.xlsx)|
 | 6 | 5/13(木)<br>13:30-14:30 | **マイクロソフトサポート部門が送る 「Azure AD 認証情報のキャッシュを解き明かす」** <br> Azure AD では認証情報が適切にキャッシュされることによりシングルサインオンを実現しています。利便性は高くなる機能である反面、すべてバックグラウンドで行われる処理であるため、管理者はキャッシュがどのように扱われているのかを疑問に思う事があると思います。このセッションでは Azure AD のトークン情報の扱い方と、様々なシナリオにおいてキャッシュがどのように扱われているのかを明確にしていきます。 |[Recording](https://aka.ms/azureadwebinar5-6)|[download](https://azureadwebinar.blob.core.windows.net/contents/5-6%20Azure%20AD%20authentication%20cache.pptx)<br>[QA sheet](https://azureadwebinar.blob.core.windows.net/contents/AzureADWebinar5-6_Q_A.xlsx)|
-
-<br><br>
-### Webinar に関するフィードバックをいただける方は[こちら](https://forms.microsoft.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR0c2zLzd505PpWCpBKbso6xUMEpUMjNQUEJJSTUwMjJaTlFITE9BQTU2Qy4u)よりお願いいたします！
-
-<br><br>
-
-# 過去の Webinar のオンデマンド配信アーカイブ
 
 ## Season 4 (2020年 7月 - 9月実施)
 
