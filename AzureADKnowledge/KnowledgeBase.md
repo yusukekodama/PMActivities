@@ -22,6 +22,8 @@
 
 
 ## 技術カテゴリ別リソース
+- Azure AD 便利ツール
+    - [Azure AD Exporter](https://github.com/microsoft/azureadexporter)
 - LOB applications for IT Pro
     - [Day 1 recording](https://youtu.be/rxaqQsx1U9I)
     - [Day 2 recording](https://youtu.be/I9KOBjCD1ds)
