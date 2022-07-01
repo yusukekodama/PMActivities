@@ -9,7 +9,7 @@
 
 ## Azure AD 全般情報収集
 - [Azure AD 製品開発チーム主催 Webinar (日本語)](http://aka.ms/azureadwebinar) <br> これまで 4 シリーズ全 22 セッションを実施、レコーディングや資料のダウンロードもこちらから可能です！
-    - Azure AD Webinar 検索用の [Power BI Dashboard](https://bit.ly/AzureAdWebinar) - カブコム石川さんにご提供いただきました！
+    - Azure AD Webinar 検索用の [Power BI Dashboard](https://bit.ly/AzureAdWebinar) - 元カブコム石川さんにご提供いただきました！
 
 - Blog (Microsoft 社員によるブログ) - 最新情報をキャッチするにはこちら
     - [EMS Blog](https://cloudblogs.microsoft.com/enterprisemobility/) <br> Azure AD 開発部門 による告知や Preview 情報が一番最初に公開されるのがここ
@@ -23,7 +23,14 @@
 
 ## 技術カテゴリ別リソース
 - Azure AD 便利ツール
-    - [Azure AD Exporter](https://github.com/microsoft/azureadexporter)
+    - [Azure AD Exporter](https://github.com/microsoft/azureadexporter) <br>
+    Azure AD 構成を json 形式でエクスポート
+    - [Graph PowerShell Conversion Analyzer](https://merill.net/2022/04/graph-powershell-conversion-analyzer/) <br> 
+    Azure AD や MSOnline PowerShell を Graph Powershell に移行してくれるツール
+    - [Graph X-Ray](http://graphxray.merill.net/) <br>
+    Azure AD portal 上での操作を自動で Graph API と Powershell で表示してくれるツール
+    - [Graph Permissions Explorer](https://merill.net/2021/09/graph-permissions-explorer/)
+    - [Graph PowerShell Samples](https://github.com/msgraph/powershell)
 - LOB applications for IT Pro
     - [Day 1 recording](https://youtu.be/rxaqQsx1U9I)
     - [Day 2 recording](https://youtu.be/I9KOBjCD1ds)
@@ -57,8 +64,6 @@
         - [Incident response playbook](https://aka.ms/IRPlaybooks)
         - [PowerShell Gallery - AzureADIncidentResponse](https://www.powershellgallery.com/packages/AzureADIncidentResponse/4.0)
 
-- パスワードレス
-    - パスワードレスウィザード：aka.ms/passwordlesswizard
 
 - アプリケーション連携
     - [Azure AD 対応プロトコル一覧](https://docs.microsoft.com/en-us/azure/active-directory/fundamentals/auth-sync-overview)
