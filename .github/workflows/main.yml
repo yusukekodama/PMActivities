@@ -1,0 +1,11 @@
+- name: Inclusiveness Analyzer
+  uses: microsoft/InclusivenessAnalyzer@v1.0.0
+  with:
+    # Fails the step if a non-inclusive term is found
+    failOnNonInclusiveTerm: # optional, default is false
+    # Only scan files added or modified in last commit when checkout step has "with: fetch-depth: 2" configured
+    excludeUnchangedFiles: # optional, default is true
+    # Comma separated list of file patterns to exclude from analysis
+    excludeFiles: # optional
+    # Comma separated list of non-inclusive terms to exclude from analysis
+    excludeTerms: # optional
