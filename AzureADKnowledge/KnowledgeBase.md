@@ -117,6 +117,7 @@
     日本語版と英語版ではセッションテーマや利用される資料、スピーカーが異なります。両方チェックしてください。
 
 -  開発者向け
+    - [NEW! Develop using Zero Trust principles](https://learn.microsoft.com/en-us/security/zero-trust/develop/overview)
     - [Azure AD token App](https://github.com/marcusca10/azuread-tokens-react)
     - [Support single sign-on and app protection policies in mobile apps you develop](https://docs.microsoft.com/ja-jp/azure/active-directory/develop/mobile-sso-support-overview)
     - [Microsoft identity platform documentation](aka.ms/aaddev) :OAuth/OpenID Connect Sample code
