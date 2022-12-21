@@ -83,6 +83,7 @@
     - [Finding and reviewing external identities ("B2B Guests") that have never signed into your tenant, or have signed in to your tenant a long time ago](https://github.com/microsoft/access-reviews-samples/tree/master/ReviewStaleExternals)
 
 - GEO
+    - [NEW! Azure AD and data residency](https://learn.microsoft.com/en-us/azure/active-directory/fundamentals/azure-ad-data-residency)
     - [Where your Microsoft 365 customer data is stored](https://docs.microsoft.com/en-us/office365/enterprise/o365-data-locations?geo=All)
 
 - Azure AD Assessment
