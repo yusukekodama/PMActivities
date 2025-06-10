@@ -3,10 +3,14 @@
 ## Overview
 
 This library documents real-world implementations of Active Directory (AD) minimization strategies across various organizations. These case studies demonstrate how companies have successfully reduced their dependency on traditional on-premises AD infrastructure while maintaining security and operational efficiency.
+<br>
+Visit the following guidance to learn more about Microsoft's overall guidance on the customer Cloud Journey
+<br>
+**Link:** [Road to the cloud](https://learn.microsoft.com/en-us/entra/architecture/road-to-the-cloud-introduction)
 
 ## Case Studies
 
-### 1. Chugai Pharmaceutical - Windows Autopilot Implementation
+### 1. Chugai Pharmaceutical - Complete device management migration to the cloud
 
 **Organization:** Chugai Pharmaceutical Co., Ltd.  
 **Industry:** Pharmaceutical  
@@ -22,7 +26,7 @@ This library documents real-world implementations of Active Directory (AD) minim
 
 ---
 
-### 2. NTT Communications Corporation - Microsoft Intune Deployment
+### 2. NTT Communications Corporation - migration from Hybrid to 100% cloud
 
 **Organization:** NTT Communications Corporation  
 **Industry:** Telecommunications  
