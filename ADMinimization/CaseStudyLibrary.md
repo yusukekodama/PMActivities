@@ -56,6 +56,26 @@ Visit the following guidance to learn more about Microsoft's overall guidance on
 
 ---
 
+### 4. Pearson Modernizes Identity with Microsoft Entra
+
+**Organization:** Pearson
+
+**Key Highlights:**
+- **Strategic Shift to Cloud-Based IAM** - Pearson replaced its heavily customized on-prem IAM system with Microsoft Entra, aiming for agility, scalability, and cloud-first capabilities to support 60,000+ identities across employees, contractors, and machine accounts
+
+- **Automation of Identity Lifecycle** - Implemented Joiner-Mover-Leaver (JML) workflows and dynamic groups to automate onboarding/offboarding, reducing manual processes and improving operational efficiency
+
+- **Enhanced Security & User Experience** - Introduced passwordless authentication, strengthened audit readiness, and empowered managers with self-service tools, leading to fewer support tickets and higher Net Promoter Scores (NPS)
+
+- **Partnership & Agile Approach** - Collaboration with eGroup enabled quick wins through proofs of concept (POCs), skill-building for Pearson’s team, and process simplification using agile techniques
+
+- **Future Vision for Innovation** - Plans include zero-touch onboarding, integration with agentic AI for intelligent automation, and decentralized identity for secure, portable credentials—positioning identity as a platform for innovation
+
+**Link:** [Customer case study published by partner eGroup](https://www.egroup-us.com/portfolio/pearson-identity-modernization/)
+
+---
+
+
 ## Key Themes Across Case Studies
 
 ### Common Benefits
